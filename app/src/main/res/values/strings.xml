@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">tictactoe-java-scrum</string>
+    <string name="layoutBG">Tic-tac-toe image background</string>
 </resources>
