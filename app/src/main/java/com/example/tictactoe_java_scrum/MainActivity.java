@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // sets background of the app
         ImageView imgView = findViewById(R.id.background);
         imgView.setImageResource(R.drawable.tic_tac_toe);
     }
