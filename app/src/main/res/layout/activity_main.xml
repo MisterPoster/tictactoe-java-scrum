@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
     <ImageView
+        android:layout_gravity="center"
         android:contentDescription="@string/layoutBG"
         android:id="@+id/background"
         android:layout_width="0dp"
