@@ -13,7 +13,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:tint="#303F9F"
+        android:tint="#FFFFFF"
         app:srcCompat="@drawable/tic_tac_toe" />
 
 </LinearLayout>
