@@ -27,13 +27,3 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-/*.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                Toast toast = Toast.makeText(getApplicationContext(),
-
-                        "Color Changed to R: "+r_value+", G: "+g_value+", B: " +b_value,
-                        Toast.LENGTH_SHORT);
-                Log.i("toast", "Toast has Been Generated");
-                toast.show();
-            }
-        });*/
